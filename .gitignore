@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+task1/.cache/clangd/index
+task1/build
+task1/compile_commands.json
+task1/.mypy.ini
